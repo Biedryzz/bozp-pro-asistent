@@ -10,7 +10,7 @@ export default function Home() {
         <link rel="icon" href="/icon.png" />
       </Head>
       <main style={{ minHeight: "100vh", display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center" }}>
-        <img src="/icon.png" alt="BOZP" width={60} style={{ marginBottom: 10 }} />
+        <img src="/icon.svg" alt="BOZP" width={60} style={{ marginBottom: 10 }} />
         <h1>BOZP asistent</h1>
         <p style={{ maxWidth: 370, textAlign: "center", color: "#444" }}>
           Nahrajte fotografii pracoviště, identifikujeme rizika a doporučíme řešení dle legislativy ČR.

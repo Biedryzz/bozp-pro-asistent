@@ -1,0 +1,7 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="64" cy="64" r="60" fill="#f4c542" stroke="#555" stroke-width="4"></circle>
+  <ellipse cx="64" cy="78" rx="40" ry="22" fill="#fff6d6"></ellipse>
+  <rect x="34" y="54" width="60" height="36" rx="18" fill="#f4c542" stroke="#555" stroke-width="4"></rect>
+  <rect x="53" y="42" width="22" height="20" rx="8" fill="#f4c542" stroke="#555" stroke-width="4"></rect>
+  <text x="64" y="112" text-anchor="middle" font-size="30" font-family="Arial" fill="#222" font-weight="bold">BOZP</text>
+</svg>
